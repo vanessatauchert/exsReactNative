@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "2-contador-de-pessoas-presentes-na-loja",
+    "slug": "snack-f02bf5d9-2a7e-457d-910d-6235fc7a4358",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Crie um App chamado Meu Perfil Profissional, onde ele exiba a sua foto, dados pessoais, formação, experiência e projetos que você já fez."
+  }
+}
